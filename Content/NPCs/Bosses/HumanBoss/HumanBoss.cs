@@ -1,9 +1,9 @@
 ﻿using Microsoft.Xna.Framework;
+using Primordium.Content.Items.Weapons.Melee.Hardmode;
 using Terraria;
 using Terraria.GameContent.ItemDropRules;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WarriorsPath.Content.Items.Weapons.Melee.Hardmode;
 
 namespace Primordium.Content.NPCs.Bosses.HumanBoss
 {
