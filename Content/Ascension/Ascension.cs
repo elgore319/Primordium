@@ -1,7 +1,7 @@
 ﻿using Terraria.ModLoader;
 using Terraria;
 
-namespace WarriorsPath.Content.Ascended_Mode
+namespace Primordium.Content.Ascension
 {
     public class Ascension : ModSystem
     {

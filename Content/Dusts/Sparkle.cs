@@ -1,7 +1,7 @@
 using Terraria;
 using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.Dusts
+namespace Primordium.Content.Dusts
 {
 	public class Sparkle : ModDust
 	{

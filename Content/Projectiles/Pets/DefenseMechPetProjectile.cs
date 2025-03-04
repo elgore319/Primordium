@@ -5,9 +5,9 @@ using System;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WarriorsPath.Content.Buffs;
+using Primordium.Content.Buffs;
 
-namespace WarriorsPath.Content.Projectiles.Pets
+namespace Primordium.Content.Projectiles.Pets
 {
     // You can find a simple pet example in ExampleMod\Content\Pets\ExamplePet
     // This pet uses custom AI and drawing to make it more special (It's a Master Mode boss pet after all)

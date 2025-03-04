@@ -5,7 +5,7 @@ using Terraria.GameContent.Creative;
 using Terraria.DataStructures;
 
 
-namespace WarriorsPath.Content.Items.Bars_Ore
+namespace Primordium.Content.Items.Bars_Ore
 {
     internal class DivineBar : ModItem
     {

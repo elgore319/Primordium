@@ -5,7 +5,7 @@ using Terraria;
 using Microsoft.Xna.Framework;
 using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.Biomes.FrozenHellBiome
+namespace Primordium.Content.Biomes.FrozenHellBiome
 {
     public class GlowingLiquidSystem : ModSystem
     {

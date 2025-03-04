@@ -5,7 +5,7 @@ using Terraria.Localization;
 using Terraria.ModLoader;
 using Terraria.ObjectData;
 
-namespace WarriorsPath.Content.Tiles.CraftingStations
+namespace Primordium.Content.Tiles.CraftingStations
 {
 	public class NanoCompiler : ModTile
 	{

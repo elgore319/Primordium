@@ -1,15 +1,14 @@
 ﻿using Microsoft.Xna.Framework;
+using Primordium.Content.Projectiles.Pets;
 using Terraria;
 using Terraria.DataStructures;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WarriorsPath.Content.Buffs;
-using WarriorsPath.Content.Projectiles.Pets;
 
-namespace WarriorsPath.Content.Items.Boss_Items.Drops
-{ 
-	public class DefenseMechPetItem : ModItem
-	{
+namespace Primordium.Content.Items.Boss_Items.Drops
+{
+    public class DefenseMechPetItem : ModItem
+    {
         public override void SetDefaults()
         {
             Item.DefaultToVanitypet(ModContent.ProjectileType<DefenseMechPetProjectile>(), ModContent.BuffType<DefenseMechPetBuff>()); // Vanilla has many useful methods like these, use them! It sets rarity and value as well, so we have to overwrite those after

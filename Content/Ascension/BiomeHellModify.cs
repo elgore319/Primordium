@@ -2,10 +2,10 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
-using WarriorsPath.Content.Tiles.Blocks;
+using Primordium.Content.Tiles.Blocks;
 
 
-namespace  WarriorsPath.Content.Ascended_Mode;
+namespace Primordium.Content.Ascension;
 
 
 public class BiomeHellModify : ModSystem
@@ -22,10 +22,10 @@ public class BiomeHellModify : ModSystem
             IsHellTransformed = true; // Set the biome as transformed
             Main.NewText("The fires of Hell transform as the Moon Lord falls...", Color.OrangeRed);
         }
-        
-        
+
+
     }
-    
+
     private void ReplaceAshBlocksInHell()
     {
         int hellLayer = Main.maxTilesY - 200; // Approximate start of Hell layer
@@ -62,7 +62,7 @@ public class BiomeHellModify : ModSystem
         // Updates the world visuals
         NetMessage.SendData(MessageID.WorldData); // Syncs changes with all players
     }
-    
+
 
 
 }

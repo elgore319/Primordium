@@ -1,9 +1,9 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WarriorsPath.Content.Items.Bars_Ore;
+using Primordium.Content.Items.Bars_Ore;
 
-namespace WarriorsPath.Content.Items.Furniture.CraftingStations
+namespace Primordium.Content.Items.Furniture.CraftingStations
 {
 	public class NanoCompiler : ModItem
 	{

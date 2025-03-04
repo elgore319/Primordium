@@ -4,7 +4,7 @@ using Terraria.ID;
 using Terraria.GameContent.Creative;
 using Terraria.DataStructures;
 
-namespace WarriorsPath.Content.Items.Blocks
+namespace Primordium.Content.Items.Blocks
 {
     internal class FrozenAsh : ModItem
     {

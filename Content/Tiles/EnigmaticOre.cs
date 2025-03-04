@@ -9,7 +9,7 @@ using Terraria.Localization;
 using Terraria.WorldBuilding;
 using Terraria.Chat;
 
-namespace WarriorsPath.Content.Tiles
+namespace Primordium.Content.Tiles
 {
     internal class EnigmaticOre : ModTile
     {
@@ -91,7 +91,7 @@ namespace WarriorsPath.Content.Tiles
             if (ShiniesIndex != -1)
             {
               
-                tasks.Insert(ShiniesIndex + 1, new EnigmaticOrePass("WarriorsPath Ores", 237.4298f));
+                tasks.Insert(ShiniesIndex + 1, new EnigmaticOrePass("Primordium Ores", 237.4298f));
             }
         }
     }

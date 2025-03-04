@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
 
-namespace WarriorsPath.Content.Tiles.Blocks
+namespace Primordium.Content.Tiles.Blocks
 {
     public class FrozenAsh : ModTile
     {

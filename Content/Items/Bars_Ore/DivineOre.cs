@@ -3,7 +3,7 @@ using Terraria.ModLoader;
 using Terraria.GameContent.Creative;
 using Terraria.ID;
 
-namespace WarriorsPath.Content.Items.Bars_Ore
+namespace Primordium.Content.Items.Bars_Ore
 {
     internal class DivineOre : ModItem
     {

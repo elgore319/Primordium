@@ -2,7 +2,7 @@
 using Terraria.ModLoader;
 
 
-namespace WarriorsPath.Content.Items.Material
+namespace Primordium.Content.Items.Material
 {
     public class BypassBoard : ModItem
     {

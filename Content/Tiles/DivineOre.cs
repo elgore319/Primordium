@@ -3,7 +3,7 @@ using Terraria.ModLoader;
 using Terraria.ID;
 using Microsoft.Xna.Framework;
 
-namespace WarriorsPath.Content.Tiles
+namespace Primordium.Content.Tiles
 {
     internal class DivineOre : ModTile
     {

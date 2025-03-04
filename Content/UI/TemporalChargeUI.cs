@@ -4,7 +4,7 @@ using Terraria;
 using Terraria.ModLoader;
 using Terraria.UI;
 
-namespace WarriorsPath.Content.UI
+namespace Primordium.Content.UI
 {
     public class TemporalChargeUI : UIState
     {
@@ -18,8 +18,8 @@ namespace WarriorsPath.Content.UI
         public override void OnInitialize()
         {
             // Load textures once during initialization
-            barBackgroundTexture = ModContent.Request<Texture2D>("WarriorsPath/Content/UI/Textures/barBackgroundTexture").Value;
-            barFillTexture = ModContent.Request<Texture2D>("WarriorsPath/Content/UI/Textures/barFillTexture").Value;
+            barBackgroundTexture = ModContent.Request<Texture2D>("Primordium/Content/UI/Textures/barBackgroundTexture").Value;
+            barFillTexture = ModContent.Request<Texture2D>("Primordium/Content/UI/Textures/barFillTexture").Value;
         }
 
         public override void Draw(SpriteBatch spriteBatch)

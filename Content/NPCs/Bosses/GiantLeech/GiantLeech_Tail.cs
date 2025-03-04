@@ -1,6 +1,6 @@
 ﻿using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.NPCs.Bosses.GiantLeech
+namespace Primordium.Content.NPCs.Bosses.GiantLeech
 {
     public class GiantLeech_Tail : GiantLeech
     {

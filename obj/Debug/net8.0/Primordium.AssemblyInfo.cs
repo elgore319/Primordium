@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Primordium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4591685a7597a51fb13c849756776ca8469b3b19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6299decf9902fb22e6b3d2939a04d40b5e96d3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Primordium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Primordium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

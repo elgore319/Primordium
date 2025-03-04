@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework;
 using Terraria.ObjectData;
 using Terraria.Localization;
 
-namespace WarriorsPath.Content.Tiles
+namespace Primordium.Content.Tiles
 {
     internal class EnigmaticBar : ModTile
     {

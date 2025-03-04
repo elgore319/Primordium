@@ -2,7 +2,7 @@
 using Terraria;
 using Microsoft.Xna.Framework;
 
-namespace WarriorsPath.Content.NPCs.Bosses.GiantLeech
+namespace Primordium.Content.NPCs.Bosses.GiantLeech
 {
     public class GiantLeech_Head : GiantLeech
     {
@@ -63,7 +63,7 @@ namespace WarriorsPath.Content.NPCs.Bosses.GiantLeech
 
             for (int i = 0; i < 10; i++)  // Number of body segments
             {
-                int type = (i == 9) ? TailType : BodyType;  // Tail at the last segment
+                int type = i == 9 ? TailType : BodyType;  // Tail at the last segment
                 int index = NPC.NewNPC(NPC.GetSource_FromAI(), (int)NPC.Center.X, (int)NPC.Center.Y, type);
 
                 Main.npc[index].realLife = NPC.whoAmI;  // Link to the head

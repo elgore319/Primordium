@@ -1,9 +1,8 @@
 using Terraria;
-using Terraria.GameContent.Creative;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.Items.Currency
+namespace Primordium.Content.Items.Currency
 {
 	public class Crypto : ModItem
 	{

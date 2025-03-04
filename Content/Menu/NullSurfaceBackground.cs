@@ -1,7 +1,7 @@
 ﻿using Microsoft.Xna.Framework.Graphics;
 using Terraria.ModLoader;
 
-namespace SourceCodeMod.Content.Background_Test
+namespace Primordium.Content.Menu
 {
     internal class NullSurfaceBackground : ModSurfaceBackgroundStyle
     {
@@ -28,7 +28,7 @@ namespace SourceCodeMod.Content.Background_Test
             }
         }
 
-        private static readonly string TexPath = "WarriorsPath/Content/Menu/BlankPixel";
+        private static readonly string TexPath = "Primordium/Content/Menu/BlankPixel";
         public override int ChooseCloseTexture(ref float scale, ref double parallax, ref float a, ref float b) => BackgroundTextureLoader.GetBackgroundSlot(TexPath);
         public override int ChooseFarTexture() => BackgroundTextureLoader.GetBackgroundSlot(TexPath);
         public override int ChooseMiddleTexture() => BackgroundTextureLoader.GetBackgroundSlot(TexPath);

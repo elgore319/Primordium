@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.Projectiles.Magic
+namespace Primordium.Content.Projectiles.Magic
 {
     // This Example show how to implement simple homing projectile
     // Can be tested with ExampleCustomAmmoGun

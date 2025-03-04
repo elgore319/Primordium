@@ -2,12 +2,12 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria;
-using WarriorsPath.Content.NPCs.Bosses.DefenseMech;
-using WarriorsPath.Content.Items.Boss_Items.BossVanity;
-using WarriorsPath.Content.Items.Currency;
-using WarriorsPath.Content.Items.Material;
+using Primordium.Content.Items.Boss_Items.BossVanity;
+using Primordium.Content.Items.Currency;
+using Primordium.Content.Items.Material;
+using Primordium.Content.NPCs.Bosses.DefenseMech;
 
-namespace WarriorsPath.Content.Items.Boss_Items.BossBags
+namespace Primordium.Content.Items.Boss_Items.BossBags
 {
     public class NanoBag : ModItem
     {

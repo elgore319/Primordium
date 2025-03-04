@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 using Microsoft.Xna.Framework;
+using Primordium.Content.UI;
 using Terraria;
 using Terraria.ModLoader;
 using Terraria.UI;
-using WarriorsPath.Content.UI;
 
-namespace WarriorsPath.Content.Systems
+namespace Primordium.Content.Systems
 {
     public class UISystem : ModSystem
     {

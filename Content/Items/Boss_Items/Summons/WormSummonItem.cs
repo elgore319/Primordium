@@ -1,10 +1,10 @@
-﻿using Terraria;
+﻿using Primordium.Content.NPCs.Bosses.GiantLeech;
+using Terraria;
 using Terraria.Audio;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WarriorsPath.Content.NPCs.Bosses.GiantLeech;
 
-namespace WarriorsPath.Content.Items.Boss_Items.Summons
+namespace Primordium.Content.Items.Boss_Items.Summons
 {
     public class WormSummonItem : ModItem
     {

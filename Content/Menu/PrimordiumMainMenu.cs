@@ -3,14 +3,13 @@ using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using ReLogic.Content;
-using SourceCodeMod.Content.Background_Test;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.Menu
+namespace Primordium.Content.Menu
 {
-    public class WarriorsPathMainMenu : ModMenu
+    public class PrimordiumMainMenu : ModMenu
     {
         public class Cinder
         {
@@ -40,11 +39,11 @@ namespace WarriorsPath.Content.Menu
             internal set;
         } = new();
 
-        public override string DisplayName => "Warriors Path";
+        public override string DisplayName => "Primordium";
 
-        public override Asset<Texture2D> Logo => ModContent.Request<Texture2D>("WarriorsPath/Content/Menu/BlankPixel");
-        public override Asset<Texture2D> SunTexture => ModContent.Request<Texture2D>("WarriorsPath/Content/Menu/BlankPixel");
-        public override Asset<Texture2D> MoonTexture => ModContent.Request<Texture2D>("WarriorsPath/Content/Menu/BlankPixel");
+        public override Asset<Texture2D> Logo => ModContent.Request<Texture2D>("Primordium/Content/Menu/BlankPixel");
+        public override Asset<Texture2D> SunTexture => ModContent.Request<Texture2D>("Primordium/Content/Menu/BlankPixel");
+        public override Asset<Texture2D> MoonTexture => ModContent.Request<Texture2D>("Primordium/Content/Menu/BlankPixel");
 
         public override int Music => MusicLoader.GetMusicSlot(Mod, "Content/Assets/Music/The_Beginning_of_the_End");
 
@@ -53,7 +52,7 @@ namespace WarriorsPath.Content.Menu
         // Before drawing the logo, draw the entire Calamity background. This way, the typical parallax background is skipped entirely.
         public override bool PreDrawLogo(SpriteBatch spriteBatch, ref Vector2 logoDrawCenter, ref float logoRotation, ref float logoScale, ref Color drawColor)
         {
-            Texture2D texture = ModContent.Request<Texture2D>("WarriorsPath/Content/Menu/MenuBackground").Value;
+            Texture2D texture = ModContent.Request<Texture2D>("Primordium/Content/Menu/MenuBackground").Value;
 
             // Calculate the draw position offset and scale in the event that someone is using a non-16:9 monitor
             Vector2 drawOffset = Vector2.Zero;
@@ -123,7 +122,7 @@ namespace WarriorsPath.Content.Menu
             Cinders.RemoveAll(c => c.Time >= c.Lifetime);
 
             // Draw cinders.
-            Texture2D cinderTexture = ModContent.Request<Texture2D>("WarriorsPath/Content/Menu/BlankPixel").Value;
+            Texture2D cinderTexture = ModContent.Request<Texture2D>("Primordium/Content/Menu/BlankPixel").Value;
             for (int i = 0; i < Cinders.Count; i++)
             {
                 Vector2 drawPosition = Cinders[i].Center;

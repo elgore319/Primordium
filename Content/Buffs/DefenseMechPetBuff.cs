@@ -1,8 +1,8 @@
-﻿using Terraria;
+﻿using Primordium.Content.Projectiles.Pets;
+using Terraria;
 using Terraria.ModLoader;
-using WarriorsPath.Content.Projectiles.Pets;
 
-namespace WarriorsPath.Content.Buffs
+namespace Primordium.Content.Buffs
 {
     public class DefenseMechPetBuff : ModBuff
     {

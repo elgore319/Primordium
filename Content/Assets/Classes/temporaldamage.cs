@@ -1,6 +1,6 @@
 ﻿using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.Assets.Classes
+namespace Primordium.Content.Assets.Classes
 {
     public class Temporaldamage : DamageClass
     {

@@ -12,5 +12,10 @@
 	<ItemGroup>
 	  <Folder Include="Content\Subworlds\Ocean\" />
 	</ItemGroup>
+	<ItemGroup>
+	  <Reference Include="SubworldLibrary">
+	    <HintPath>..\..\..\..\..\..\Desktop\SubworldLibrary.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
 
 </Project>

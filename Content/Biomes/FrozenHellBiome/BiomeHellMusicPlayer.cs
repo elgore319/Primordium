@@ -1,7 +1,7 @@
 ﻿using Terraria;
 using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.Biomes.FrozenHellBiome;
+namespace Primordium.Content.Biomes.FrozenHellBiome;
 
 //is not set up correctly yet
 //this will be used to change the hell music to the custom track once it freezes, but for now it just overrides the original music constantly

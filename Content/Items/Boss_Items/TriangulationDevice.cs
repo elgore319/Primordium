@@ -1,12 +1,12 @@
-﻿using Terraria;
+﻿using Primordium.Content.Items.Material;
+using Primordium.Content.NPCs.Bosses.DefenseMech;
+using Terraria;
 using Terraria.Audio;
 using Terraria.DataStructures;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WarriorsPath.Content.Items.Material;
-using WarriorsPath.Content.NPCs.Bosses.DefenseMech;
 
-namespace WarriorsPath.Content.Items.Boss_Items
+namespace Primordium.Content.Items.Boss_Items
 {
     public class TriangulationDevice : ModItem
     {

@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.Items.Boss_Items.BossVanity
+namespace Primordium.Content.Items.Boss_Items.BossVanity
 {
 	[AutoloadEquip(EquipType.Head)]
 	public class DefenseMechMask : ModItem

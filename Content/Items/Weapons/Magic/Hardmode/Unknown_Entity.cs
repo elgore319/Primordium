@@ -1,10 +1,11 @@
-﻿using Terraria;
+﻿using Primordium.Content.Projectiles.Magic;
+using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
 namespace WarriorsPath.Content.Items.Weapons.Magic.Hardmode
 
-    // This is going to be a lamp-shaped magic weapon
+// This is going to be a lamp-shaped magic weapon
 {
     internal class Unknown_Entity : ModItem
     {
@@ -25,7 +26,7 @@ namespace WarriorsPath.Content.Items.Weapons.Magic.Hardmode
             Item.newAndShiny = true;
             Item.noMelee = true;
 
-            Item.shoot = ModContent.ProjectileType<Projectiles.Magic.ExampleHomingProjectile>();
+            Item.shoot = ModContent.ProjectileType<ExampleHomingProjectile>();
 
             //Use below to animate objects with multiple frames. Left number is ticks, right is frame count.
 

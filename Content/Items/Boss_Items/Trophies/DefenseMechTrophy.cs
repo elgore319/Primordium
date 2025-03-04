@@ -3,7 +3,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 
 
-namespace WarriorsPath.Content.Items.Boss_Items.Trophies
+namespace Primordium.Content.Items.Boss_Items.Trophies
 {
 	public class DefenseMechTrophy : ModItem
 	{

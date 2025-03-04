@@ -5,7 +5,7 @@ using Terraria.ObjectData;
 using Terraria.Localization;
 using Terraria.ID;
 
-namespace WarriorsPath.Content.Tiles
+namespace Primordium.Content.Tiles
 {
     internal class DivineBar : ModTile
     {

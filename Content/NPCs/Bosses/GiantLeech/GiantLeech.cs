@@ -2,7 +2,7 @@
 using Terraria;
 using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.NPCs.Bosses.GiantLeech
+namespace Primordium.Content.NPCs.Bosses.GiantLeech
 {
     public abstract class GiantLeech : ModNPC
     {
@@ -53,7 +53,7 @@ namespace WarriorsPath.Content.NPCs.Bosses.GiantLeech
                     }
                 }
 
-               
+
             }
             else
             {

@@ -5,7 +5,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using WarriorsPath.Content.Items.Weapons.Melee.Hardmode;
 
-namespace WarriorsPath.Content.NPCs.Bosses.HumanBoss
+namespace Primordium.Content.NPCs.Bosses.HumanBoss
 {
     public class HumanBoss : ModNPC
     {
