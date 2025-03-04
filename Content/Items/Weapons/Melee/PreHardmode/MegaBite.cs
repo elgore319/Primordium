@@ -1,10 +1,10 @@
-﻿using Terraria;
+﻿using Primordium.Content.Items.Material;
+using Primordium.Content.Tiles.CraftingStations;
+using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WarriorsPath.Content.Items.Material;
-using WarriorsPath.Content.Tiles.CraftingStations;
 
-namespace WarriorsPath.Content.Items.Weapons.Melee.PreHardmode
+namespace Primordium.Content.Items.Weapons.Melee.PreHardmode
 {
     public class MegaBite : ModItem
     {
@@ -21,7 +21,7 @@ namespace WarriorsPath.Content.Items.Weapons.Melee.PreHardmode
         {
             CreateRecipe()
                .AddIngredient<Nanites>()
-               .AddTile<NanoCompiler> ()
+               .AddTile<NanoCompiler>()
                .Register();
         }
     }

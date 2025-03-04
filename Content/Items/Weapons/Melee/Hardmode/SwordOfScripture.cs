@@ -1,10 +1,10 @@
+using Primordium.Content.Items.Weapons.Melee.PreHardmode;
 using Terraria;
 using Terraria.DataStructures;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WarriorsPath.Content.Items.Weapons.Melee.PreHardmode;
 
-namespace WarriorsPath.Content.Items.Weapons.Melee.Hardmode
+namespace Primordium.Content.Items.Weapons.Melee.Hardmode
 {
     public class SwordOfScripture : ModItem
     {

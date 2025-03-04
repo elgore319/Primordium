@@ -8,7 +8,7 @@ using Terraria.DataStructures;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.Items.Weapons.Melee.Hardmode
+namespace Primordium.Content.Items.Weapons.Melee.Hardmode
 {
     // ExampleCustomSwingSword is an example of a sword with a custom swing using a held projectile
     // This is great if you want to make melee weapons with complex swing behavior

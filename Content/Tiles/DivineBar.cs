@@ -3,7 +3,6 @@ using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
 using Terraria.ObjectData;
 using Terraria.Localization;
-using Terraria.ID;
 
 namespace Primordium.Content.Tiles
 {

@@ -3,7 +3,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 
 
-namespace WarriorsPath.Content.Items.Weapons.Melee.Hardmode
+namespace Primordium.Content.Items.Weapons.Melee.Hardmode
 {
     public class PurpleBlade : ModItem
     {

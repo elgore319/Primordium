@@ -2,10 +2,9 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 using SubworldLibrary;
-using WarriorsPath.Content.Subworlds;
 
 
-namespace WarriorsPath.Content.NPCs.Sailor
+namespace Primordium.Content.NPCs.Sailor
 {
     public class SailorNPC : ModNPC
     {
@@ -28,7 +27,7 @@ namespace WarriorsPath.Content.NPCs.Sailor
 
             // This prevents the happiness button
             NPCID.Sets.NoTownNPCHappiness[Type] = true;
-        
+
             NPCID.Sets.SpawnsWithCustomName[Type] = true;
 
             // Influences how the NPC looks in the Bestiary

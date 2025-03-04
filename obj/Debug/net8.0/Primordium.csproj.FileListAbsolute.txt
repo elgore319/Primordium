@@ -1,0 +1,6 @@
+C:\Users\goree\NotOneDrive\Documents\My Games\Terraria\tModLoader\ModSources\Primordium\obj\Debug\net8.0\Primordium.csproj.AssemblyReference.cache
+C:\Users\goree\NotOneDrive\Documents\My Games\Terraria\tModLoader\ModSources\Primordium\obj\Debug\net8.0\Primordium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goree\NotOneDrive\Documents\My Games\Terraria\tModLoader\ModSources\Primordium\obj\Debug\net8.0\Primordium.AssemblyInfoInputs.cache
+C:\Users\goree\NotOneDrive\Documents\My Games\Terraria\tModLoader\ModSources\Primordium\obj\Debug\net8.0\Primordium.AssemblyInfo.cs
+C:\Users\goree\NotOneDrive\Documents\My Games\Terraria\tModLoader\ModSources\Primordium\obj\Debug\net8.0\Primordium.csproj.CoreCompileInputs.cache
+C:\Users\goree\NotOneDrive\Documents\My Games\Terraria\tModLoader\ModSources\Primordium\obj\Debug\net8.0\Primordium.sourcelink.json

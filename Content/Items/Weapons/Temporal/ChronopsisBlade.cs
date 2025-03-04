@@ -3,9 +3,9 @@ using Terraria;
 using Terraria.DataStructures;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WarriorsPath.Content.Assets.Classes;
+using Primordium.Content.Assets.Classes;
 
-namespace WarriorsPath.Content.Items.Weapons.Temporal
+namespace Primordium.Content.Items.Weapons.Temporal
 {
     public class ChronopsisBlade : ModItem
     {

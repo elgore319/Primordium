@@ -3,13 +3,13 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace WarriorsPath.Content.Items.Weapons.Magic.Hardmode
+namespace Primordium.Content.Items.Weapons.Magic.Hardmode
 
 // This is going to be a lamp-shaped magic weapon
 {
     internal class Unknown_Entity : ModItem
     {
-        public override void SetDefaults() 
+        public override void SetDefaults()
         {
             Item.damage = 500;
             Item.DamageType = DamageClass.Magic;

@@ -3,10 +3,10 @@ using Terraria;
 using Terraria.DataStructures;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WarriorsPath.Content.Items.Bars_Ore;
-using WarriorsPath.Content.Items.Material;
+using Primordium.Content.Items.Bars_Ore;
+using Primordium.Content.Items.Material;
 
-namespace WarriorsPath.Content.Items.Weapons.Melee.Hardmode
+namespace Primordium.Content.Items.Weapons.Melee.Hardmode
 {
 
 
