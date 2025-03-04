@@ -68,7 +68,7 @@ namespace Primordium.Content.Items.Weapons.Melee.Hardmode
         private float execTime => 8f / Owner.GetTotalAttackSpeed(Projectile.DamageType);
         private float hideTime => 14f / Owner.GetTotalAttackSpeed(Projectile.DamageType);
 
-        public override string Texture => "WarriorsPath/Content/Items/Weapons/Melee/Hardmode/SwordOfTheGods"; // Use texture of item as projectile texture
+        public override string Texture => "Primordium/Content/Items/Weapons/Melee/Hardmode/SwordOfTheGods"; // Use texture of item as projectile texture
         private Player Owner => Main.player[Projectile.owner];
 
         public override void SetStaticDefaults()

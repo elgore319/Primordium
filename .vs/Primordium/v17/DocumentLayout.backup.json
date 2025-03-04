@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\items\\weapons\\melee\\hardmode\\godswordswingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\items\\weapons\\melee\\hardmode\\godswordswingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\subworlds\\vastocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\subworlds\\vastocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\primordium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:primordium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\npcs\\bosses\\humanboss\\humanboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\npcs\\bosses\\humanboss\\humanboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\primordium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:primordium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\items\\boss_items\\drops\\defensemechpetitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\items\\boss_items\\drops\\defensemechpetitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +34,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GodSwordSwingProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Items\\Weapons\\Melee\\Hardmode\\GodSwordSwingProjectile.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\Melee\\Hardmode\\GodSwordSwingProjectile.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Items\\Weapons\\Melee\\Hardmode\\GodSwordSwingProjectile.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\Melee\\Hardmode\\GodSwordSwingProjectile.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA/wEYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:46:26.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "build.txt",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\build.txt",
+              "RelativeDocumentMoniker": "build.txt",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\build.txt",
+              "RelativeToolTip": "build.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-04T03:43:17.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefenseMechPetItem.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Items\\Boss_Items\\Drops\\DefenseMechPetItem.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Boss_Items\\Drops\\DefenseMechPetItem.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Items\\Boss_Items\\Drops\\DefenseMechPetItem.cs",
+              "RelativeToolTip": "Content\\Items\\Boss_Items\\Drops\\DefenseMechPetItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:39:12.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "VastOcean.cs",
               "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Subworlds\\VastOcean.cs",
               "RelativeDocumentMoniker": "Content\\Subworlds\\VastOcean.cs",
@@ -39,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HumanBoss.cs",
               "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\NPCs\\Bosses\\HumanBoss\\HumanBoss.cs",
               "RelativeDocumentMoniker": "Content\\NPCs\\Bosses\\HumanBoss\\HumanBoss.cs",
@@ -52,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Primordium",
               "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Primordium.csproj",
               "RelativeDocumentMoniker": "Primordium.csproj",
@@ -62,10 +117,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-04T03:36:16.124Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

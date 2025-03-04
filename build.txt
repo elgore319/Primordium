@@ -1,3 +1,4 @@
 displayName = Primordium
 author = TheEveminator
 version = 0.1
+modReferences = SubworldLibrary

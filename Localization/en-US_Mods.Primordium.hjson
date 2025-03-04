@@ -2,7 +2,7 @@
 
 Items: {
 	PrimordialBlade: {
-		DisplayName: "Primordial Blade"
+		DisplayName: Primordial Blade
 		Tooltip:
 			'''
 			Template of an item
@@ -10,4 +10,166 @@ Items: {
 			It's snowing on Mt.Fuji
 			'''
 	}
+
+	DivineBar: {
+		DisplayName: Divine Bar
+		Tooltip: ""
+	}
+
+	DivineOre: {
+		DisplayName: Divine Ore
+		Tooltip: ""
+	}
+
+	EnigmaticBar: {
+		DisplayName: Enigmatic Bar
+		Tooltip: ""
+	}
+
+	EnigmaticOre: {
+		DisplayName: Enigmatic Ore
+		Tooltip: ""
+	}
+
+	FrozenHellStone: {
+		DisplayName: Frozen Hell Stone
+		Tooltip: ""
+	}
+
+	FrozenAsh: {
+		DisplayName: Frozen Ash
+		Tooltip: ""
+	}
+
+	NanoBag: {
+		DisplayName: Nano Bag
+		Tooltip: ""
+	}
+
+	DefenseMechMask: {
+		DisplayName: Defense Mech Mask
+		Tooltip: ""
+	}
+
+	DefenseMechPetItem: {
+		DisplayName: Defense Mech Pet Item
+		Tooltip: ""
+	}
+
+	DefenseMechRelic: {
+		DisplayName: Defense Mech Relic
+		Tooltip: ""
+	}
+
+	WormSummonItem: {
+		DisplayName: Worm Summon Item
+		Tooltip: ""
+	}
+
+	TriangulationDevice: {
+		DisplayName: Triangulation Device
+		Tooltip: ""
+	}
+
+	DefenseMechTrophy: {
+		DisplayName: Defense Mech Trophy
+		Tooltip: ""
+	}
+
+	Crypto: {
+		DisplayName: Crypto
+		Tooltip: ""
+	}
+
+	NanoCompiler: {
+		DisplayName: Nano Compiler
+		Tooltip: ""
+	}
+
+	BypassBoard: {
+		DisplayName: Bypass Board
+		Tooltip: ""
+	}
+
+	FlameofDivinity: {
+		DisplayName: Flameof Divinity
+		Tooltip: ""
+	}
+
+	Nanites: {
+		DisplayName: Nanites
+		Tooltip: ""
+	}
+
+	Unknown_Entity: {
+		DisplayName: Unknown_ Entity
+		Tooltip: ""
+	}
+
+	PurpleBlade: {
+		DisplayName: Purple Blade
+		Tooltip: ""
+	}
+
+	SwordOfScripture: {
+		DisplayName: Sword Of Scripture
+		Tooltip: ""
+	}
+
+	SwordOfTheGods: {
+		DisplayName: Sword Of The Gods
+		Tooltip: ""
+	}
+
+	BrokenSwordOfScripture: {
+		DisplayName: Broken Sword Of Scripture
+		Tooltip: ""
+	}
+
+	MegaBite: {
+		DisplayName: Mega Bite
+		Tooltip: ""
+	}
+
+	ChronopsisBlade: {
+		DisplayName: Chronopsis Blade
+		Tooltip: ""
+	}
+}
+
+WorldGen: {
+	BlessedWithFrozenHellStoneMessage: Mods.Primordium.WorldGen.BlessedWithFrozenHellStoneMessage
+	FrozenHellStonePassMessage: Mods.Primordium.WorldGen.FrozenHellStonePassMessage
+	BlessedWithEnigmaticOreMessage: Mods.Primordium.WorldGen.BlessedWithEnigmaticOreMessage
+	EnigmaticOrePassMessage: Mods.Primordium.WorldGen.EnigmaticOrePassMessage
+}
+
+Tiles: {
+	FrozenHellStone.MapEntry: Frozen Hell Stone
+	EnigmaticOre.MapEntry: Enigmatic Ore
+	DivineOre.MapEntry: Divine Ore
+}
+
+DamageClasses.Temporaldamage.DisplayName: Temporaldamage
+
+Buffs: {
+	DefenseMechPetBuff: {
+		DisplayName: Defense Mech Pet Buff
+		Description: Mods.Primordium.Buffs.DefenseMechPetBuff.Description
+	}
+}
+
+NPCs: {
+	DefenseMechBody.DisplayName: Defense Mech Body
+	GiantLeech_Body.DisplayName: Giant Leech_ Body
+	GiantLeech_Head.DisplayName: Giant Leech_ Head
+	GiantLeech_Tail.DisplayName: Giant Leech_ Tail
+	HumanBoss.DisplayName: Human Boss
+	SailorNPC.DisplayName: Sailor N P C
+}
+
+Projectiles: {
+	GodSwordSwingProjectile.DisplayName: God Sword Swing Projectile
+	ExampleHomingProjectile.DisplayName: Example Homing Projectile
+	DefenseMechPetProjectile.DisplayName: Defense Mech Pet Projectile
 }

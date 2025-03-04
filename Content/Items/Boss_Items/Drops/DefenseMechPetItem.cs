@@ -1,4 +1,5 @@
 ﻿using Microsoft.Xna.Framework;
+using Primordium.Content.Buffs;
 using Primordium.Content.Projectiles.Pets;
 using Terraria;
 using Terraria.DataStructures;
