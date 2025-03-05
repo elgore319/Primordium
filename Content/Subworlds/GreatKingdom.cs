@@ -3,7 +3,7 @@ using Terraria.WorldBuilding;
 using Terraria;
 using SubworldLibrary;
 
-public class VastOcean : Subworld
+public class GreatKingdom : Subworld
 {
     public override int Width => 4000;
     public override int Height => 1000;
@@ -13,16 +13,14 @@ public class VastOcean : Subworld
 
     public override List<GenPass> Tasks => new List<GenPass>()
     {
-        new FirstOceanPass()
+        new FirstKingdomPass()
 	// other passes
     };
 
-    // Sets the time to the middle of the day whenever the subworld loads
-    // Eventually fix this to be the same time as the main world
+    //Always night and storming
     public override void OnLoad()
     {
-        Main.dayTime = true;
-        Main.time = 27000;
+        Main.dayTime = false;
     }
     public override void OnEnter()
     {

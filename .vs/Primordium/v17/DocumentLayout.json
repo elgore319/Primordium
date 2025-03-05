@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\subworlds\\greatkingdom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\subworlds\\greatkingdom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\subworlds\\vastocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\subworlds\\vastocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\world_generation\\vastocean_genpasses\\firstoceanpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\world_generation\\vastocean_genpasses\\firstoceanpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\world_generation\\greatkingdom_genpasses\\firstkingdompass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\world_generation\\greatkingdom_genpasses\\firstkingdompass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\systems\\updatesubworldsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\systems\\updatesubworldsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +38,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstKingdomPass.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\World_Generation\\GreatKingdom_GenPasses\\FirstKingdomPass.cs",
+              "RelativeDocumentMoniker": "Content\\World_Generation\\GreatKingdom_GenPasses\\FirstKingdomPass.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\World_Generation\\GreatKingdom_GenPasses\\FirstKingdomPass.cs",
+              "RelativeToolTip": "Content\\World_Generation\\GreatKingdom_GenPasses\\FirstKingdomPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:44:26.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstOceanPass.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\World_Generation\\VastOcean_GenPasses\\FirstOceanPass.cs",
+              "RelativeDocumentMoniker": "Content\\World_Generation\\VastOcean_GenPasses\\FirstOceanPass.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\World_Generation\\VastOcean_GenPasses\\FirstOceanPass.cs",
+              "RelativeToolTip": "Content\\World_Generation\\VastOcean_GenPasses\\FirstOceanPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:42:39.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateSubworldSystem.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Systems\\UpdateSubworldSystem.cs",
+              "RelativeDocumentMoniker": "Content\\Systems\\UpdateSubworldSystem.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Systems\\UpdateSubworldSystem.cs",
+              "RelativeToolTip": "Content\\Systems\\UpdateSubworldSystem.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:38:50.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-05T00:55:51.368Z",
+              "Title": "GreatKingdom.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Subworlds\\GreatKingdom.cs",
+              "RelativeDocumentMoniker": "Content\\Subworlds\\GreatKingdom.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Subworlds\\GreatKingdom.cs",
+              "RelativeToolTip": "Content\\Subworlds\\GreatKingdom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:29:34.604Z",
               "EditorCaption": ""
             },
             {
@@ -49,7 +100,7 @@
               "RelativeDocumentMoniker": "Content\\Subworlds\\VastOcean.cs",
               "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Subworlds\\VastOcean.cs",
               "RelativeToolTip": "Content\\Subworlds\\VastOcean.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T00:31:00.79Z",
               "EditorCaption": ""
