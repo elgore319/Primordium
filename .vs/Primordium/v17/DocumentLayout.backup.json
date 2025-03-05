@@ -1,12 +1,75 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\projectiles\\magic\\theorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\projectiles\\magic\\theorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\items\\weapons\\magic\\hardmode\\unknown_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\items\\weapons\\magic\\hardmode\\unknown_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\items\\weapons\\magic\\hardmode\\unknown_entitydrawlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\items\\weapons\\magic\\hardmode\\unknown_entitydrawlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unknown_EntityDrawLayer.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Items\\Weapons\\Magic\\Hardmode\\Unknown_EntityDrawLayer.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\Magic\\Hardmode\\Unknown_EntityDrawLayer.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Items\\Weapons\\Magic\\Hardmode\\Unknown_EntityDrawLayer.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\Magic\\Hardmode\\Unknown_EntityDrawLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:07:14.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheOrb.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Projectiles\\Magic\\TheOrb.cs",
+              "RelativeDocumentMoniker": "Content\\Projectiles\\Magic\\TheOrb.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Projectiles\\Magic\\TheOrb.cs",
+              "RelativeToolTip": "Content\\Projectiles\\Magic\\TheOrb.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAowHUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T21:40:18.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unknown_Entity.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Items\\Weapons\\Magic\\Hardmode\\Unknown_Entity.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\Weapons\\Magic\\Hardmode\\Unknown_Entity.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Items\\Weapons\\Magic\\Hardmode\\Unknown_Entity.cs",
+              "RelativeToolTip": "Content\\Items\\Weapons\\Magic\\Hardmode\\Unknown_Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T21:39:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

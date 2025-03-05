@@ -172,4 +172,5 @@ Projectiles: {
 	GodSwordSwingProjectile.DisplayName: God Sword Swing Projectile
 	ExampleHomingProjectile.DisplayName: Example Homing Projectile
 	DefenseMechPetProjectile.DisplayName: Defense Mech Pet Projectile
+	TheOrb.DisplayName: The Orb
 }
