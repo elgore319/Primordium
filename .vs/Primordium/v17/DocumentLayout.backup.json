@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\subworlds\\vastocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\subworlds\\vastocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\biomes\\frozenhellbiome\\biomehellmusicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\biomes\\frozenhellbiome\\biomehellmusicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\ascension\\ascension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\ascension\\ascension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\biomes\\frozenhellbiome\\stopwaterevaporation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\biomes\\frozenhellbiome\\stopwaterevaporation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\npcs\\sailor\\sailornpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\npcs\\sailor\\sailornpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\biomes\\frozenhellbiome\\concept.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\biomes\\frozenhellbiome\\concept.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +30,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SailorNPC.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\NPCs\\Sailor\\SailorNPC.cs",
+              "RelativeDocumentMoniker": "Content\\NPCs\\Sailor\\SailorNPC.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\NPCs\\Sailor\\SailorNPC.cs",
+              "RelativeToolTip": "Content\\NPCs\\Sailor\\SailorNPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:08:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ascension.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Ascension\\Ascension.cs",
+              "RelativeDocumentMoniker": "Content\\Ascension\\Ascension.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Ascension\\Ascension.cs",
+              "RelativeToolTip": "Content\\Ascension\\Ascension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:02:02.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VastOcean.cs",
-              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Subworlds\\VastOcean.cs",
-              "RelativeDocumentMoniker": "Content\\Subworlds\\VastOcean.cs",
-              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Subworlds\\VastOcean.cs",
-              "RelativeToolTip": "Content\\Subworlds\\VastOcean.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Title": "BiomeHellMusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Biomes\\FrozenHellBiome\\BiomeHellMusicPlayer.cs",
+              "RelativeDocumentMoniker": "Content\\Biomes\\FrozenHellBiome\\BiomeHellMusicPlayer.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Biomes\\FrozenHellBiome\\BiomeHellMusicPlayer.cs",
+              "RelativeToolTip": "Content\\Biomes\\FrozenHellBiome\\BiomeHellMusicPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T00:31:00.79Z",
+              "WhenOpened": "2025-03-05T16:00:41.277Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StopWaterEvaporation.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Biomes\\FrozenHellBiome\\StopWaterEvaporation.cs",
+              "RelativeDocumentMoniker": "Content\\Biomes\\FrozenHellBiome\\StopWaterEvaporation.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Biomes\\FrozenHellBiome\\StopWaterEvaporation.cs",
+              "RelativeToolTip": "Content\\Biomes\\FrozenHellBiome\\StopWaterEvaporation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:59:46.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Concept.txt",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Biomes\\FrozenHellBiome\\Concept.txt",
+              "RelativeDocumentMoniker": "Content\\Biomes\\FrozenHellBiome\\Concept.txt",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Biomes\\FrozenHellBiome\\Concept.txt",
+              "RelativeToolTip": "Content\\Biomes\\FrozenHellBiome\\Concept.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-05T15:52:49.111Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

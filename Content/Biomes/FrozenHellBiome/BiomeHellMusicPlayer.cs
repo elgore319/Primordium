@@ -11,8 +11,8 @@ public class BiomeHellMusicPlayer : ModSceneEffect
 
     public override bool IsSceneEffectActive(Player player)
     {
-        // Check if the player is in the Underworld
-        return player.ZoneUnderworldHeight;
+        // Check if the player is in the Underworld and MoonLord is dead
+        return player.ZoneUnderworldHeight && NPC.downedMoonlord;
 
     }
 

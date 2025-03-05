@@ -8,9 +8,9 @@ namespace Primordium.Content.UI
 {
     public class TemporalChargeUI : UIState
     {
-        public static int maxCharges = 10; // Set max Temporal Charges
+        public static int maxCharges = 100; // Set max Temporal Charges
 
-        public static int currentCharges = 0; // This should be updated from your class system
+        public static int currentCharges = 1; // This should be updated from your class system
 
         private Texture2D barBackgroundTexture;
         private Texture2D barFillTexture;
@@ -26,7 +26,7 @@ namespace Primordium.Content.UI
         {
             base.Draw(spriteBatch);
             
-            Main.NewText("TemporalChargeUI Draw method called!"); // Debug message
+            
 
             // Don't draw if the player is dead or in the main menu
             if (Main.LocalPlayer.dead || Main.gameMenu)

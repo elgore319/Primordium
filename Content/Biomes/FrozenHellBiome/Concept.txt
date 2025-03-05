@@ -1,5 +1,5 @@
 Im thinking of making a separate world changing event (similar to Hardmode)
-for after moonlord is defeated (or maybe someother boss idk yet) 
+for after moonlord is defeated
 but with this change I want to completely revamp hell and make it "freeze over" to give some life to
 the world, this change will effect the whole biome.  Now with the spirit of this change I think it 
 necessary to remember that the player may still need access to all hell exclusive items.  In that case 
@@ -9,19 +9,23 @@ varients too early (adding to the surprise)
 
 Lore:
 - We need a reason for hell to freeze. Could be because of a boss, or some other reason.
+(Solution) will add boss that is ice themed
 
 Item Concepts:
 - Frozen HellStone (could give a frozen debuff instead of spilling lava)
+(Solution) sprays spark projectiles when mined that give frozen debuff
+
 - change all magma to obsidian
-- Ash block changes to a new block (well call it "hellsnow" until I come up with a better name)
+- Ash block changes to a new block (we'll call it "hellsnow" until I come up with a better name)
 - I want to make an Item that most enemies drop, that also has lore implications (crafting too) maybe like
 "The Chill" or something thats the reason for hell freezing, not sure, maybe it could make an accessory that
 freezes you and powers you up or something not really sure yet
+(Solution) make a common drop used to make boss summoner
 
 Enemy Concepts:
-- Frozen Demons/Frost Demons (I could make an easter egg for the dragon ball Frost Demons like Frieza)
+- Frozen Demons/Frost Demons 
 - Obsidian slime (I was thinking about adding ice slimes but this seems smarter, since they were originally magma slimes)
-- Imps will definitely need a reskin as well
+- Ice Imps (fires ice ball instead of fire ball)
 - Obsidian Bats (Duh)
 -
 -

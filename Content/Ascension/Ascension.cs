@@ -17,12 +17,7 @@ namespace Primordium.Content.Ascension
         private void ShowCustomDialogue()
         {
             string message = "Higher deities have noticed your presence...";
-
-            // Option 1: Basic Text (appears in the chat)
-            Main.NewText(message, 175, 75, 255); // RGB colors for the text
-
-            // Option 2: Advanced UI (requires creating a custom UI class)
-            // Call your custom UI method here.
+            Main.NewText(message, 175, 75, 255); 
         }
     }
 
