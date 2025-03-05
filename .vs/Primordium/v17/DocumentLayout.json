@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|c:\\users\\goree\\notonedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\primordium\\content\\subworlds\\vastocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E623C536-CC53-4381-B4DD-A48C0106C8A5}|Primordium.csproj|solutionrelative:content\\subworlds\\vastocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-05T00:55:51.368Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VastOcean.cs",
+              "DocumentMoniker": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Subworlds\\VastOcean.cs",
+              "RelativeDocumentMoniker": "Content\\Subworlds\\VastOcean.cs",
+              "ToolTip": "C:\\Users\\goree\\NotOneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Primordium\\Content\\Subworlds\\VastOcean.cs",
+              "RelativeToolTip": "Content\\Subworlds\\VastOcean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:31:00.79Z",
+              "EditorCaption": ""
             }
           ]
         }
