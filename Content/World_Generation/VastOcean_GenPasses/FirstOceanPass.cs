@@ -15,9 +15,12 @@ public class FirstOceanPass : GenPass
         Main.worldSurface = Main.maxTilesY - 42; // Hides the underground layer just out of bounds
         Main.rockLayer = Main.maxTilesY; // Hides the cavern layer way out of bounds
 
+        // Define the water level (y = 501 in your case)
+        int waterLevel = 501;
+
         for (int i = 0; i < Main.maxTilesX; i++)
         {
-            for (int j = 0; j < Main.maxTilesY + 999; j++)
+            for (int j = waterLevel; j < Main.maxTilesY; j++)
             {
                 // Update progress
                 progress.Set((float)(i * Main.maxTilesY + j) / (Main.maxTilesX * Main.maxTilesY));
@@ -25,15 +28,12 @@ public class FirstOceanPass : GenPass
                 // Safely get or initialize the tile
                 Tile tile = Framing.GetTileSafely(i, j);
 
-                if (j <= 501)
-                {
-                    tile.HasTile = false; 
-                }
-                else
-                {
-                    tile.LiquidAmount = 255;
-                    tile.LiquidType = LiquidID.Water; 
-                }
+                // Clear any existing tiles
+                tile.HasTile = false;
+
+                // Fill with water
+                tile.LiquidAmount = 255;
+                tile.LiquidType = LiquidID.Water;
             }
         }
     }

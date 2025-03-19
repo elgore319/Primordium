@@ -8,12 +8,15 @@ public class VastOcean : Subworld
     public override int Width => 4000;
     public override int Height => 1000;
 
-    public override bool ShouldSave => true;
+    public override bool ShouldSave => false;
     public override bool NoPlayerSaving => false;
+    
+    bool isIceOnLeft = Main.dungeonX < Main.maxTilesX / 2;
 
     public override List<GenPass> Tasks => new List<GenPass>()
     {
-        new FirstOceanPass()
+        new FirstOceanPass(),
+        new IceBiomePass(isIceOnLeft)
 	// other passes
     };
 
