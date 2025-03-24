@@ -33,7 +33,7 @@ namespace Primordium.Content.Systems
             if (mouseTextIndex != -1)
             {
                 layers.Insert(mouseTextIndex, new LegacyGameInterfaceLayer(
-                    "Primordial: TemporalChargeUI",
+                    "Primordium: TemporalChargeUI",
                     delegate {
                         temporalChargeUI.Draw(Main.spriteBatch, new GameTime());
                         return true;

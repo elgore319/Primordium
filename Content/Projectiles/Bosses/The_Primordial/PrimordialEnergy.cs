@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Primordium.Content.Projectiles.Magic
+namespace Primordium.Content.Projectiles.Bosses.The_Primordial
 {
     public class PrimordialEnergy : ModProjectile
     {

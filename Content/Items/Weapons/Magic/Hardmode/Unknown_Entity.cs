@@ -28,7 +28,7 @@ namespace Primordium.Content.Items.Weapons.Magic.Hardmode
             Item.holdStyle = 6;
             Item.newAndShiny = true;
             Item.noMelee = true;
-            Item.shoot = ModContent.ProjectileType<TheOrb>();
+            Item.shoot = ModContent.ProjectileType<PrimordialEnergy>();
             Item.shootSpeed = 10f;
 
             //Use below to animate item with multiple frames. Left number is ticks, right is frame count.

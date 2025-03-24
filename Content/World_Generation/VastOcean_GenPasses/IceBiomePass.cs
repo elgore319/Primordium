@@ -3,7 +3,7 @@ using Terraria.IO;
 using Terraria.WorldBuilding;
 using Terraria;
 
-//Work in progress
+//Just a placeholder, will be HEAVILY reworked
 public class IceBiomePass : GenPass
 {
     private bool _isIceOnLeft; // Determines if the ice biome is on the left side of the subworld
