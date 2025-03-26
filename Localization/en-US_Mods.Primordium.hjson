@@ -135,6 +135,31 @@ Items: {
 		DisplayName: Chronopsis Blade
 		Tooltip: ""
 	}
+
+	PrimordialShard: {
+		Tooltip: ""
+		DisplayName: Primordial Shard
+	}
+
+	PrimordialRelic: {
+		Tooltip: ""
+		DisplayName: Primordial Relic
+	}
+
+	PrimordialPetItem: {
+		Tooltip: ""
+		DisplayName: Primordial Pet Item
+	}
+
+	PrimordialEssence: {
+		Tooltip: ""
+		DisplayName: Primordial Essence
+	}
+
+	PrimordialCore: {
+		Tooltip: ""
+		DisplayName: Primordial Core
+	}
 }
 
 WorldGen: {
@@ -166,6 +191,7 @@ NPCs: {
 	GiantLeech_Tail.DisplayName: Giant Leech_ Tail
 	HumanBoss.DisplayName: Human Boss
 	SailorNPC.DisplayName: Sailor N P C
+	ThePrimordial.DisplayName: The Primordial
 }
 
 Projectiles: {
@@ -173,4 +199,6 @@ Projectiles: {
 	ExampleHomingProjectile.DisplayName: Example Homing Projectile
 	DefenseMechPetProjectile.DisplayName: Defense Mech Pet Projectile
 	TheOrb.DisplayName: The Orb
+	PrimordialOrb.DisplayName: Primordial Orb
+	PrimordialEnergy.DisplayName: Primordial Energy
 }

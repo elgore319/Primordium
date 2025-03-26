@@ -5,7 +5,7 @@ using Terraria.ModLoader;
 
 namespace Primordium.Content.Projectiles.Magic
 {
-    public class PrimordialEnergy : ModProjectile
+    public class TheOrb : ModProjectile
     {
         private int shootCooldown = 0;
         private const int ShootInterval = 30;

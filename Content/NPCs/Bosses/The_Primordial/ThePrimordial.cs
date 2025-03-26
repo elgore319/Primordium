@@ -1,6 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
-using Primordium.Content.Items;
+using Primordium.Content.Items.Boss_Items.Drops.ThePrimordial;
 using Primordium.Content.NPCs.Bosses.The_Primordial.HealthBar;
 using Primordium.Content.Projectiles.Bosses.The_Primordial;
 using Terraria;
@@ -287,10 +287,10 @@ public class ThePrimordial : ModNPC
         notExpertRule.OnSuccess(ItemDropRule.Common(ModContent.ItemType<PrimordialShard>(), 1, 15, 25));
 
         // Weapons/tools
-        npcLoot.Add(ItemDropRule.OneFromOptions(1,
-            ModContent.ItemType<PrimordialStaff>(),
-            ModContent.ItemType<PrimordialBlade>(),
-            ModContent.ItemType<PrimordialBow>()));
+        //npcLoot.Add(ItemDropRule.OneFromOptions(1,
+            //ModContent.ItemType<PrimordialStaff>(),
+            //ModContent.ItemType<PrimordialBow>(),
+            //ModContent.ItemType<PrimordialBlade>()));
     }
     private void DeathSequence()
     {
