@@ -3,23 +3,19 @@ using Terraria.IO;
 using Terraria.WorldBuilding;
 using Terraria;
 
-//Just a placeholder, will be HEAVILY reworked
 public class IceBiomePass : GenPass
 {
-    private bool _isIceOnLeft; // Determines if the ice biome is on the left side of the subworld
-
-    public IceBiomePass(bool isIceOnLeft) : base("Ice Biome", 1)
-    {
-        _isIceOnLeft = isIceOnLeft; // Set the side of the ice biome
-    }
+    public IceBiomePass() : base("Terrain", 0) { }
 
     protected override void ApplyPass(GenerationProgress progress, GameConfiguration configuration)
     {
-        progress.Message = "Generating Ice Biome";
+        progress.Message = "Freezing Ocean"; // Sets the text displayed for this pass
 
-        // Define the boundaries of the ice biome
-        int iceBiomeStartX = _isIceOnLeft ? 0 : Main.maxTilesX / 2;
-        int iceBiomeEndX = _isIceOnLeft ? Main.maxTilesX / 2 : Main.maxTilesX;
+        // Adjust world layers
+        Main.worldSurface = Main.maxTilesY - 42; // Hides the underground layer just out of bounds
+        Main.rockLayer = Main.maxTilesY; // Hides the cavern layer way out of bounds
+
+        // Define the water level (y = 501 in your case)
         int iceLevel = 501;
 
         for (int i = 0; i < Main.maxTilesX; i++)
@@ -32,16 +28,12 @@ public class IceBiomePass : GenPass
                 // Safely get or initialize the tile
                 Tile tile = Framing.GetTileSafely(i, j);
 
+                // Clear any existing tiles
                 tile.HasTile = true;
-                tile.TileType = TileID.IceBlock;
 
+                // Fill with water
+                tile.TileType = TileID.IceBlock;
             }
         }
-    }
-
-    private bool IsInIceBiome(int x, int y)
-    {
-        // Define ice biome boundaries (e.g., top half of the world)
-        return y < Main.maxTilesY / 2;
     }
 }
