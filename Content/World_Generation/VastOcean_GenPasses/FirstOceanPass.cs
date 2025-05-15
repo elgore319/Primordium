@@ -2,8 +2,6 @@
 using Terraria.IO;
 using Terraria.WorldBuilding;
 using Terraria;
-using System.Diagnostics.CodeAnalysis;
-//Sets water level for ocean biome
 public class FirstOceanPass : GenPass
 {
     public FirstOceanPass() : base("Terrain", 0) { }
@@ -22,7 +20,6 @@ public class FirstOceanPass : GenPass
         {
             for (int j = waterLevel; j < Main.maxTilesY; j++)
             {
-                // Update progress
                 progress.Set((float)(i * Main.maxTilesY + j) / (Main.maxTilesX * Main.maxTilesY));
 
                 Tile tile = Framing.GetTileSafely(i, j);

@@ -2,6 +2,7 @@
 using Terraria.WorldBuilding;
 using Terraria;
 using SubworldLibrary;
+using Primordium.Content.World_Generation.VastOcean_GenPasses;
 
 public class VastOcean : Subworld
 {

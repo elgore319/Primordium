@@ -160,6 +160,16 @@ Items: {
 		Tooltip: ""
 		DisplayName: Primordial Core
 	}
+
+	KingdomTeleporter: {
+		DisplayName: Kingdom Teleporter
+		Tooltip: ""
+	}
+
+	Coordinate_Detector: {
+		DisplayName: Coordinate_ Detector
+		Tooltip: ""
+	}
 }
 
 WorldGen: {
