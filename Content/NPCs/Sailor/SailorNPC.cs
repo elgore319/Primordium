@@ -2,7 +2,6 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 using SubworldLibrary;
-using Terraria.UI.Chat;
 
 
 namespace Primordium.Content.NPCs.Sailor
@@ -58,7 +57,7 @@ namespace Primordium.Content.NPCs.Sailor
         }
         public override string GetChat()
         {
-            return "The seas beyond here are treacherous, but I can take you there if you’re brave enough. What do you say, matey?";
+            return "The seas beyond here be treacherous, but I can take ye there if yer brave enough. What'a ya say, matey?";
         }
         public override void SetChatButtons(ref string button, ref string button2)
         {

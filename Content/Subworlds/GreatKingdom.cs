@@ -21,7 +21,7 @@ public class GreatKingdom : Subworld
     //Always night and storming
     public override void OnLoad()
     {
-        Main.dayTime = false;
+        Main.time = 0;
         Main.spawnTileX = (int)CustomSpawn.X;
         Main.spawnTileY = (int)CustomSpawn.Y;
     }

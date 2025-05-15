@@ -18,12 +18,9 @@ public class VastOcean : Subworld
 	// other passes
     };
 
-    // Sets the time to the middle of the day whenever the subworld loads
-    // Eventually fix this to be the same time as the main world
     public override void OnLoad()
     {
-        Main.dayTime = true;
-        Main.time = 27000;
+
     }
     public override void OnEnter()
     {
